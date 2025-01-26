@@ -1,5 +1,5 @@
 const environment = {
-    development:"http://4.236.187.182:8080/",
+    development:"https://backendminicore-production-c423.up.railway.app/",
     production:"https://your-production-url.com"
 }
 
